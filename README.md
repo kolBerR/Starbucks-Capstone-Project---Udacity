@@ -41,3 +41,6 @@ RandomForestClassifier
 An assessment of the predictive powers of the features used in the RandomForest Classifier yields the following percentages.
     total_amount (consumer spend) - 57%
     month of membership, difficulty, duration, reward also have some explanatory power, falling in the top 5
+    
+    
+https://github.com/kolBerR/Starbucks-Capstone-Project---Udacity
