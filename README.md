@@ -44,7 +44,7 @@ An assessment of the predictive powers of the features used in the RandomForest 
     
 
 Some visualizations from the project are displayed in the following webpage. 
-[
-](http://18.207.94.40/)  
+
+http://18.207.94.40/  
 
 https://github.com/kolBerR/Starbucks-Capstone-Project---Udacity
