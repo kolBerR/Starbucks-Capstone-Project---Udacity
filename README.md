@@ -42,5 +42,9 @@ An assessment of the predictive powers of the features used in the RandomForest 
     total_amount (consumer spend) - 57%
     month of membership, difficulty, duration, reward also have some explanatory power, falling in the top 5
     
-    
+
+Some visualizations from the project are displayed in the following webpage. 
+[
+](http://18.207.94.40/)  
+
 https://github.com/kolBerR/Starbucks-Capstone-Project---Udacity
