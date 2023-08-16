@@ -2,20 +2,19 @@ Starbucks_Capstone_Project - Udacity
 
 The Project
 
-After reviewing the three datasets, I first started by cleaning the data including addressing missing values. Since the objective of the challenge is to create a model which better predicts the probability of offer-completion, I started by filtering and merging the three datasets. My focus was to generate insight that better explain consumers decision on whether to accept and complete offers of discount/GOGO. 
+After reviewing the three datasets, I first started by cleaning the data including addressing missing values. Since the objective of the challenge is to create a model which better predicts the probability of offer-completion, I started by filtering and merging the three datasets. My focus was to generate insight that better explain consumers decision on whether to accept and complete offers of discount/BOGO. 
  
-Using the merged data, I tabulated the the offers with largest completion percentage. I found that discount offers such as offer 1 and 2 lead to better offer-completion compared to informational offers such as offer 9 and 10. 
+Using the merged data, I tabulated the offers with largest completion percentage. I found that discount offers such as offer 1 and 2 lead to better offer-completion rate compared to informational offers such as offer 9 and 10. 
  
-Two classifiers, logistic regression and random forest, were used to train on the training set and calculate predictive accuracy. The RandomForestClassifier yielded a relatively better result. 
+Two classifiers, Logistic Regression and Random Forest, were used to train on the training set and calculate the predictive accuracy of the model. The RandomForestClassifier yielded a relatively better result. 
 
-Finally, some assessment was made on the relative strength of the explanatory variables. The result shows the amount of money the customer spent was the strongest predictor on whether the customer will accept the offer and complete the process.
+Finally, I made some assessment on the relative strength of the explanatory variables. The result shows the amount of money the customer spent was the strongest predictor on whether the customer will accept the offer and complete the process.
 
 Libraries used
 
 Pandas
 Numpy
 Matplotlib
-Seaborn
 Sklearn 
 
 File descriptions
@@ -44,3 +43,5 @@ An assessment of the predictive powers of the features used in the RandomForest 
     
 
 https://github.com/kolBerR/Starbucks-Capstone-Project---Udacity
+
+In the github repository is included a webApp (sApp)
